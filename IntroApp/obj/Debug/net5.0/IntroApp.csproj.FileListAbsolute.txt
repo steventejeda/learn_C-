@@ -1,0 +1,15 @@
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/IntroApp.csproj.AssemblyReference.cache
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/IntroApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/IntroApp.AssemblyInfoInputs.cache
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/IntroApp.AssemblyInfo.cs
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/IntroApp.csproj.CoreCompileInputs.cache
+/Users/steventejeda/Desktop/IntroApp/IntroApp/bin/Debug/net5.0/IntroApp.deps.json
+/Users/steventejeda/Desktop/IntroApp/IntroApp/bin/Debug/net5.0/IntroApp.runtimeconfig.json
+/Users/steventejeda/Desktop/IntroApp/IntroApp/bin/Debug/net5.0/IntroApp.runtimeconfig.dev.json
+/Users/steventejeda/Desktop/IntroApp/IntroApp/bin/Debug/net5.0/IntroApp.dll
+/Users/steventejeda/Desktop/IntroApp/IntroApp/bin/Debug/net5.0/ref/IntroApp.dll
+/Users/steventejeda/Desktop/IntroApp/IntroApp/bin/Debug/net5.0/IntroApp.pdb
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/IntroApp.dll
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/ref/IntroApp.dll
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/IntroApp.pdb
+/Users/steventejeda/Desktop/IntroApp/IntroApp/obj/Debug/net5.0/IntroApp.genruntimeconfig.cache
