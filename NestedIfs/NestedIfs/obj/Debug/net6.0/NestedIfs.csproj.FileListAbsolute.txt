@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\bin\Debug\net6.0\NestedIfs.exe
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\bin\Debug\net6.0\NestedIfs.deps.json
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\bin\Debug\net6.0\NestedIfs.runtimeconfig.json
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\bin\Debug\net6.0\NestedIfs.dll
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\bin\Debug\net6.0\ref\NestedIfs.dll
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\bin\Debug\net6.0\NestedIfs.pdb
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.GlobalUsings.g.cs
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.dll
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\ref\NestedIfs.dll
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.pdb
+\\Mac\Home\Desktop\C#\NestedIfs\NestedIfs\obj\Debug\net6.0\NestedIfs.genruntimeconfig.cache
