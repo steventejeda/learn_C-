@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\C#\Methods\Methods\bin\Debug\net6.0\Methods.exe
+\\Mac\Home\Desktop\C#\Methods\Methods\bin\Debug\net6.0\Methods.deps.json
+\\Mac\Home\Desktop\C#\Methods\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+\\Mac\Home\Desktop\C#\Methods\Methods\bin\Debug\net6.0\Methods.dll
+\\Mac\Home\Desktop\C#\Methods\Methods\bin\Debug\net6.0\ref\Methods.dll
+\\Mac\Home\Desktop\C#\Methods\Methods\bin\Debug\net6.0\Methods.pdb
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.GlobalUsings.g.cs
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.dll
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\ref\Methods.dll
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.pdb
+\\Mac\Home\Desktop\C#\Methods\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
