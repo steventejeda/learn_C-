@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\bin\Debug\net6.0\Try_catch.exe
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\bin\Debug\net6.0\Try_catch.deps.json
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\bin\Debug\net6.0\Try_catch.runtimeconfig.json
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\bin\Debug\net6.0\Try_catch.dll
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\bin\Debug\net6.0\ref\Try_catch.dll
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\bin\Debug\net6.0\Try_catch.pdb
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.GlobalUsings.g.cs
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.dll
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\ref\Try_catch.dll
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.pdb
+\\Mac\Home\Desktop\C#\Try_catch\Try_catch\obj\Debug\net6.0\Try_catch.genruntimeconfig.cache
