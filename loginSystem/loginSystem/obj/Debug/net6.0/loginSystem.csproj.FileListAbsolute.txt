@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\bin\Debug\net6.0\loginSystem.exe
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\bin\Debug\net6.0\loginSystem.deps.json
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\bin\Debug\net6.0\loginSystem.runtimeconfig.json
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\bin\Debug\net6.0\loginSystem.dll
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\bin\Debug\net6.0\ref\loginSystem.dll
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\bin\Debug\net6.0\loginSystem.pdb
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.GlobalUsings.g.cs
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.dll
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\ref\loginSystem.dll
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.pdb
+\\Mac\Home\Desktop\C#\loginSystem\loginSystem\obj\Debug\net6.0\loginSystem.genruntimeconfig.cache

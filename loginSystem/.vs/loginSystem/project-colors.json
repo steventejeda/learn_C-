@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bac265cb-441f-4bba-8d23-9a98989c3dfd": {
+      "ProjectGuid": "bac265cb-441f-4bba-8d23-9a98989c3dfd",
+      "DisplayName": "loginSystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
