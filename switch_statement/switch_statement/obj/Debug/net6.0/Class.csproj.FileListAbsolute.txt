@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\bin\Debug\net6.0\Class.exe
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\bin\Debug\net6.0\Class.deps.json
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\bin\Debug\net6.0\Class.runtimeconfig.json
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\bin\Debug\net6.0\Class.dll
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\bin\Debug\net6.0\ref\Class.dll
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\bin\Debug\net6.0\Class.pdb
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.GlobalUsings.g.cs
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.dll
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\ref\Class.dll
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.pdb
+\\Mac\Home\Desktop\C#\switch_statement\switch_statement\obj\Debug\net6.0\Class.genruntimeconfig.cache
