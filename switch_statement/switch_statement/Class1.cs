@@ -38,7 +38,7 @@ namespace Class
         public void DisplayInfo()
         {
             volume = length * width * height;
-            Console.WriteLine($"The length is {length}, the width is {width}, the height is {height}, so the total volume is {volume}");
+            System.Console.Write($"The length is {length}, the width is {width}, the height is {height}, so the total volume is {volume}");
         }
     }
 }

@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\C#\Human\Human\obj\Debug\net6.0\Human.GlobalUsings.g.cs
+\\Mac\Home\Desktop\C#\Human\Human\obj\Debug\net6.0\Human.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\Human\Human\obj\Debug\net6.0\Human.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\Human\Human\obj\Debug\net6.0\Human.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\Human\Human\obj\Debug\net6.0\Human.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\Human\Human\obj\Debug\net6.0\Human.csproj.CoreCompileInputs.cache
