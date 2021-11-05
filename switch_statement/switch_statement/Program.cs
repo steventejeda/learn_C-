@@ -2,16 +2,15 @@
 {
     class Program
     {
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
-        //Create an instance of my class
-        Human steven = new Human();
-            //New instance 
-            steven.firstName = "Steven";
+            Box box = new Box();
+            box.SetLength(6);
+            box.width = 4;
+            box.height = 5;
 
-            steven.IntroduceMyself();
-
-            Console.Read();     
+            box.DisplayInfo();
+            Console.Read();
         }
     }
 }
