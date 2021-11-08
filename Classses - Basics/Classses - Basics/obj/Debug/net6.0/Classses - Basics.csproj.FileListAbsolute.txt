@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.GlobalUsings.g.cs
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\bin\Debug\net6.0\Classses - Basics.exe
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\bin\Debug\net6.0\Classses - Basics.deps.json
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\bin\Debug\net6.0\Classses - Basics.runtimeconfig.json
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\bin\Debug\net6.0\Classses - Basics.dll
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\bin\Debug\net6.0\ref\Classses - Basics.dll
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\bin\Debug\net6.0\Classses - Basics.pdb
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.dll
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\ref\Classses - Basics.dll
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.pdb
+\\Mac\Home\Desktop\C#\Classses - Basics\Classses - Basics\obj\Debug\net6.0\Classses - Basics.genruntimeconfig.cache
