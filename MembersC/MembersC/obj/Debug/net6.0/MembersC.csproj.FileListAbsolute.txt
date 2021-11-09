@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\C#\MembersC\MembersC\bin\Debug\net6.0\MembersC.exe
+\\Mac\Home\Desktop\C#\MembersC\MembersC\bin\Debug\net6.0\MembersC.deps.json
+\\Mac\Home\Desktop\C#\MembersC\MembersC\bin\Debug\net6.0\MembersC.runtimeconfig.json
+\\Mac\Home\Desktop\C#\MembersC\MembersC\bin\Debug\net6.0\MembersC.dll
+\\Mac\Home\Desktop\C#\MembersC\MembersC\bin\Debug\net6.0\ref\MembersC.dll
+\\Mac\Home\Desktop\C#\MembersC\MembersC\bin\Debug\net6.0\MembersC.pdb
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.GlobalUsings.g.cs
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.dll
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\ref\MembersC.dll
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.pdb
+\\Mac\Home\Desktop\C#\MembersC\MembersC\obj\Debug\net6.0\MembersC.genruntimeconfig.cache

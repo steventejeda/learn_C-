@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace properties
 {
-     class Box
+    class Box
     {
         //member varibles
         private int length;
@@ -25,13 +25,18 @@ namespace properties
             {
                 volume = value;
             }
-        } 
+        }
 
         public int Width { get; set; }
 
         public int Length { get; set; }
 
         public int Height { get; set; }
+
+        public int FrontSurface
+        {
+            get { return Height * Length; }
+        }
 
         public Box(int length, int height, int width)
         {

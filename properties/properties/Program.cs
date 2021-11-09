@@ -10,11 +10,13 @@ namespace properties
     {
         static void Main(string[] args)
         {
-            Box box = new Box(3, 4, 5);
+            Box box = new Box(5,4,5);
 
-            Console.WriteLine($"Box's width is {box.Width}");
-            Console.WriteLine($"Box's height is {box.Height}");
-            Console.WriteLine($"Box's length is {box.Length}");
+            /*            Console.WriteLine($"Box's width is {box.Width}");
+                        Console.WriteLine($"Box's height is {box.Height}");
+                        Console.WriteLine($"Box's length is {box.Length}");*/
+
+            Console.WriteLine($"Front surface of the box is {box.FrontSurface}");
 
 
 
