@@ -10,18 +10,22 @@ namespace properties
     {
         static void Main(string[] args)
         {
-            Box box = new Box();
-            box.length = 1;
-            box.width = 2; 
-            box.height = 3;
+            Box box = new Box(3, 4, 5);
 
-            box.DisplayInfo();
+            Console.WriteLine($"Box's width is {box.Width}");
+            Console.WriteLine($"Box's height is {box.Height}");
+            Console.WriteLine($"Box's length is {box.Length}");
+
+
+
+            //box.DisplayInfo();
             Console.Read();
         }
     }
+
 }
 
-    
-    
-    
+
+
+
   

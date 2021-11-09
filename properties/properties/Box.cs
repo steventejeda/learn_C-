@@ -9,11 +9,38 @@ namespace properties
      class Box
     {
         //member varibles
-        public int length;
-        public int height;
-        public int width;
+        private int length;
+        private int height;
+        private int width;
         public int volume;
 
+        public int Volume
+        {
+            get
+            {
+                return volume;
+            }
+
+            set
+            {
+                volume = value;
+            }
+        } 
+
+        public int Width { get; set; }
+
+        public int Length { get; set; }
+
+        public int Height { get; set; }
+
+        public Box(int length, int height, int width)
+        {
+            Length = length;
+            Height = height;
+            Width = width;
+
+        }
+        
         public void DisplayInfo()
         {
             volume = length * width * height;
